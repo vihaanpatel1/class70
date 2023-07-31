@@ -1,0 +1,20 @@
+travel_MainDiv{
+border: 1px solid lightgray;
+}
+travel_MainDiv img{
+    width:100%;
+}
+travel_MainDiv h5 .,travel_MainDiv p {
+    margin: 20px;
+}
+.move_head{
+  font-size: 20px; 
+  padding: 6px  22px;
+  border-radius: 10px;
+}
+.move_head i {
+float: right;}
+
+.achevements_text-span {
+    color: orange;
+}
